@@ -9,7 +9,7 @@
                     <thead>
                     <th>ID</th>
                     <th>NAME</th>
-                    <th>DESCRIPTION </th>
+                    <th>DESCRIPTIONS</th>
                     <th>PRICE</th>
                     <th>ACTION</th>
                     </thead>
